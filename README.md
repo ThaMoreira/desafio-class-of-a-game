@@ -16,11 +16,6 @@ além disso, deve ter um método chamado atacar que deve atender os seguientes r
 - exibir a mensagem: "o {tipo} atacou usando {ataque}"
 - No {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
 
-se mago -> no ataque exibir (usou magia)
-se guerreiro -> no ataque exibir (usou espada)
-se monge -> no ataque exibir (usou artes marciais)
-se ninja -> no ataque exibir (usou shuriken)
-
 |    Tipo    |     Ataque     |
 | ---------- | -------------- |
 |    mago    |      magia     |
